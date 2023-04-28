@@ -4,3 +4,6 @@ En este script se representa la serie de Fourier para la función escalón utili
 
 
 El código en cuestión está pensado para poder ejecutarse en un Jupyter Notebook.
+
+
+Se puede variar el valor de la variable n para cambiar el número de términos que se suman en la serie de Fourier
